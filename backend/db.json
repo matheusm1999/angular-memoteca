@@ -4,42 +4,49 @@
       "id": 1,
       "conteudo": "Vc veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Dev",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Aprendendo front",
       "autoria": "Auxiliar",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "Pensamento de teste editado",
       "autoria": "Matheus editado",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Pensamento de teste",
       "autoria": "matheus",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "teste de insercao",
       "autoria": "anonimo",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "setimo pensamento",
       "autoria": "desconhecido",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     }
   ]
